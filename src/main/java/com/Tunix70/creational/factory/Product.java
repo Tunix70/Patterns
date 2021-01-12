@@ -1,5 +1,8 @@
 package main.java.com.Tunix70.creational.factory;
-
+/*
+В зависимости от выбора сырья, создается дистиллер, который
+делает соответствующий напиток
+ */
 public class Product {
     public static void main(String[] args) {
         DistillerFactory distillerFactory = createDistillerByDistill("солод");
