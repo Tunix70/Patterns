@@ -1,6 +1,6 @@
-package main.java.com.Tunix70.creational.abstractFactory.wineProduced;
+package main.java.com.Tunix70.creational.abstractfactory.wineproduced;
 
-import main.java.com.Tunix70.creational.abstractFactory.Distiller;
+import main.java.com.Tunix70.creational.abstractfactory.Distiller;
 
 public class WineDistiller implements Distiller {
     @Override

@@ -1,6 +1,6 @@
-package main.java.com.Tunix70.creational.abstractFactory.Brewery;
+package main.java.com.Tunix70.creational.abstractfactory.brewery;
 
-import main.java.com.Tunix70.creational.abstractFactory.Distiller;
+import main.java.com.Tunix70.creational.abstractfactory.Distiller;
 
 public class Brewer implements Distiller {
     @Override

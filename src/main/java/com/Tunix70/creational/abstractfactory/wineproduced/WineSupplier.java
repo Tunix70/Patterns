@@ -1,6 +1,6 @@
-package main.java.com.Tunix70.creational.abstractFactory.wineProduced;
+package main.java.com.Tunix70.creational.abstractfactory.wineproduced;
 
-import main.java.com.Tunix70.creational.abstractFactory.Supplier;
+import main.java.com.Tunix70.creational.abstractfactory.Supplier;
 
 public class WineSupplier implements Supplier {
     @Override

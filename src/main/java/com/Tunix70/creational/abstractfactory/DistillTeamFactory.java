@@ -1,4 +1,4 @@
-package main.java.com.Tunix70.creational.abstractFactory;
+package main.java.com.Tunix70.creational.abstractfactory;
 
 public interface DistillTeamFactory {
     Supplier getSupplier();

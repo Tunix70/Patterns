@@ -1,9 +1,9 @@
-package main.java.com.Tunix70.creational.abstractFactory.Brewery;
+package main.java.com.Tunix70.creational.abstractfactory.brewery;
 
-import main.java.com.Tunix70.creational.abstractFactory.DistillTeamFactory;
-import main.java.com.Tunix70.creational.abstractFactory.Distiller;
-import main.java.com.Tunix70.creational.abstractFactory.Sommelier;
-import main.java.com.Tunix70.creational.abstractFactory.Supplier;
+import main.java.com.Tunix70.creational.abstractfactory.DistillTeamFactory;
+import main.java.com.Tunix70.creational.abstractfactory.Distiller;
+import main.java.com.Tunix70.creational.abstractfactory.Sommelier;
+import main.java.com.Tunix70.creational.abstractfactory.Supplier;
 
 public class BreweryTeamFactory implements DistillTeamFactory {
     @Override

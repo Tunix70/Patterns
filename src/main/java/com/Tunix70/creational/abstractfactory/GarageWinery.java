@@ -1,6 +1,6 @@
-package main.java.com.Tunix70.creational.abstractFactory;
+package main.java.com.Tunix70.creational.abstractfactory;
 
-import main.java.com.Tunix70.creational.abstractFactory.wineProduced.WineTeamFactory;
+import main.java.com.Tunix70.creational.abstractfactory.wineproduced.WineTeamFactory;
 
 public class GarageWinery {
     public static void main(String[] args) {

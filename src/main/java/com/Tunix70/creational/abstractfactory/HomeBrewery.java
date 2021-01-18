@@ -1,9 +1,9 @@
-package main.java.com.Tunix70.creational.abstractFactory;
+package main.java.com.Tunix70.creational.abstractfactory;
 
-import main.java.com.Tunix70.creational.abstractFactory.Brewery.Brewer;
-import main.java.com.Tunix70.creational.abstractFactory.Brewery.BrewerySommelier;
-import main.java.com.Tunix70.creational.abstractFactory.Brewery.BrewerySupplier;
-import main.java.com.Tunix70.creational.abstractFactory.Brewery.BreweryTeamFactory;
+import main.java.com.Tunix70.creational.abstractfactory.brewery.Brewer;
+import main.java.com.Tunix70.creational.abstractfactory.brewery.BrewerySommelier;
+import main.java.com.Tunix70.creational.abstractfactory.brewery.BrewerySupplier;
+import main.java.com.Tunix70.creational.abstractfactory.brewery.BreweryTeamFactory;
 
 public class HomeBrewery {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package main.java.com.Tunix70.creational.abstractFactory.wineProduced;
+package main.java.com.Tunix70.creational.abstractfactory.wineproduced;
 
-import main.java.com.Tunix70.creational.abstractFactory.Sommelier;
+import main.java.com.Tunix70.creational.abstractfactory.Sommelier;
 
 public class WineSommelier implements Sommelier {
     @Override
