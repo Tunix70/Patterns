@@ -3,7 +3,7 @@ package main.java.com.Tunix70.behavioral.observer;
 import java.util.ArrayList;
 import java.util.List;
 
-public class News  implements Observed{
+public class News implements Observed{
     List<String> newsList = new ArrayList<>();
 
     List<Observer> readers = new ArrayList<>();
@@ -23,7 +23,7 @@ public class News  implements Observed{
     }
 
     @Override
-    public void remobeObserver(Observer observer) {
+    public void removeObserver(Observer observer) {
         readers.remove(observer);
     }
 
